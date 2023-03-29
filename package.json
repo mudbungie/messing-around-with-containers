@@ -1,0 +1,23 @@
+{
+  "name": "messing-around-with-containers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudbungie/messing-around-with-containers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudbungie/messing-around-with-containers/issues"
+  },
+  "homepage": "https://github.com/mudbungie/messing-around-with-containers#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
